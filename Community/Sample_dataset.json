@@ -1,0 +1,82 @@
+[
+    {
+        "user": "What is the Jumpstart Our Business Startups Act?",
+        "assistant": "The Jumpstart Our Business Startups Act, or JOBS Act, aims to increase American job creation and economic growth by improving access to public capital markets for emerging growth companies."
+    },
+    {
+        "user": "What is an emerging growth company?",
+        "assistant": "An emerging growth company is defined as an issuer with annual gross revenues of less than $1 billion during its most recently completed fiscal year."
+    },
+    {
+        "user": "How does the act help capital markets?",
+        "assistant": "The JOBS Act reopens American capital markets to emerging growth companies by reducing regulatory requirements, allowing easier access to capital."
+    },
+    {
+        "user": "What are the crowdfunding limits?",
+        "assistant": "Under the JOBS Act, companies can raise up to $1 million per 12-month period through crowdfunding."
+    },
+    {
+        "user": "Is crowdfunding exempt from regulations?",
+        "assistant": "The act provides a crowdfunding exemption, allowing companies to raise funds without certain registration requirements, given they follow specific investor limits and disclosures."
+    },
+    {
+        "user": "What financial disclosures are required?",
+        "assistant": "Emerging growth companies are required to provide two years of audited financial statements for IPOs but are exempt from certain other disclosures."
+    },
+    {
+        "user": "What is considered a public offering?",
+        "assistant": "Under the JOBS Act, public offerings are regulated differently for emerging growth companies, allowing for broader investor communication before filing."
+    },
+    {
+        "user": "How does the act improve access to capital?",
+        "assistant": "The act modifies rules to help job creators access capital, including allowing general solicitation for certain securities sales."
+    },
+    {
+        "user": "What is Regulation A?",
+        "assistant": "Regulation A under the JOBS Act allows small companies to raise up to $50 million from the public, easing registration requirements for smaller offerings."
+    },
+    {
+        "user": "What impact do Blue Sky laws have?",
+        "assistant": "The act requires a study on how state Blue Sky laws affect Regulation A offerings, to assess their impact on capital formation."
+    },
+    {
+        "user": "Are emerging growth companies required to have an internal controls audit?",
+        "assistant": "The JOBS Act exempts emerging growth companies from certain internal control audit requirements to reduce regulatory burden."
+    },
+    {
+        "user": "Are there rules on executive compensation?",
+        "assistant": "The JOBS Act provides exemptions for emerging growth companies from certain executive compensation disclosure requirements."
+    },
+    {
+        "user": "What is the investor threshold for registration?",
+        "assistant": "The act raises the investor threshold for registration, allowing companies with up to 2,000 shareholders to remain private."
+    },
+    {
+        "user": "What is an accredited investor?",
+        "assistant": "An accredited investor is someone with certain financial qualifications, which allows them to invest in private offerings with fewer protections."
+    },
+    {
+        "user": "How does the act provide flexibility for IPOs?",
+        "assistant": "Emerging growth companies have greater flexibility during the IPO process, including reduced disclosure requirements and the ability to 'test the waters' with investors."
+    },
+    {
+        "user": "Is general solicitation allowed?",
+        "assistant": "The JOBS Act allows certain companies to use general solicitation for private placements, provided they only sell to accredited investors."
+    },
+    {
+        "user": "Can companies opt out of exemptions?",
+        "assistant": "Emerging growth companies can choose to forgo certain exemptions and comply with full regulations if they prefer."
+    },
+    {
+        "user": "What is decimalization?",
+        "assistant": "The act mandates a study on the impact of decimalization (trading in penny increments) on IPOs and liquidity for small companies."
+    },
+    {
+        "user": "What is a funding portal?",
+        "assistant": "A funding portal is an intermediary for crowdfunding transactions under the JOBS Act, connecting companies and investors while following certain regulations."
+    },
+    {
+        "user": "What future regulations does the act call for?",
+        "assistant": "The act calls for future rulemaking by the SEC to address crowdfunding, emerging growth company requirements, and Blue Sky law impacts."
+    }
+]
